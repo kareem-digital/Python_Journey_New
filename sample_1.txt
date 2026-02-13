@@ -1,0 +1,3 @@
+Python is really very easy
+You must need to learn it
+Without exception handling, your entire program crashes when an error occurs.
